@@ -66,7 +66,6 @@ P(v \mid entity, attribute) =
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```
 ├── dataset_generation.py     # Synthetic multi-source dataset generator
